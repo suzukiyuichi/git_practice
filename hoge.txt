@@ -1,2 +1,4 @@
 Hello, hoge
 My name is oinuma
+テキストを追加しました
+テスト1
